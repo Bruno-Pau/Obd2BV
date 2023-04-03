@@ -19,7 +19,7 @@ Connection : <br>
 
 ![Image](Connection_page.PNG) <br>
 
-Diagnostic : <br>
+Diagnostic and Reset: <br>
 ![Image](Diag_page.PNG)
 
 Informations : <br>
